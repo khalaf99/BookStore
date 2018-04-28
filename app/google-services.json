@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137811702787",
+    "firebase_url": "https://bookstore-9f202.firebaseio.com",
+    "project_id": "bookstore-9f202",
+    "storage_bucket": "bookstore-9f202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137811702787:android:8f5ab9af3c33bc1f",
+        "android_client_info": {
+          "package_name": "com.example.khalaf.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137811702787-caetmjg6ah0n20bfobjc235u2afovfqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khalaf.bookstore",
+            "certificate_hash": "40756e7d3bdb1e4753765a74f2aabfc46f536d26"
+          }
+        },
+        {
+          "client_id": "137811702787-ioa5ifnd93ors2jfu1d9u8415e43j0po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMK9zVJIMN561KfaAn1xI7tdhhGdvKPfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137811702787-ioa5ifnd93ors2jfu1d9u8415e43j0po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

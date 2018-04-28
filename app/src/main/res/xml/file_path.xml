@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--da elly shayel path beta3 ell sora beta3ty-->
+<paths>
+    <external-path name="my_images"
+                   path="." />
+</paths>
