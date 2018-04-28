@@ -61,9 +61,7 @@ public class AddBookActivity extends AppCompatActivity implements View.OnClickLi
     String mCurrentPhotoPath;
     Uri selectedImageUri;
     Uri PdffileUri;
-
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
